@@ -1,7 +1,4 @@
-# This card game will
-# be the card game "War" for two players, you an the computer. If you don't know
-# how to play "War" here are the basic rules:
-#
+
 # The deck is divided evenly, with each player receiving 26 cards, dealt one at a time,
 # face down. Anyone may deal first. Each player places his stack of cards face down,
 # in front of him.
