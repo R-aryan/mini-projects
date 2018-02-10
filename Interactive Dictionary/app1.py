@@ -43,7 +43,7 @@ def translate(word):
 
 word= input("Enter the word whose meaning you want to search..\n")
 
-print(translate(word))
+#print(translate(word))
 output = translate(word)
 if type(output) == list:
     for item in output:
